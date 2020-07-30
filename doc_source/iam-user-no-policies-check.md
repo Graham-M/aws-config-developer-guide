@@ -1,6 +1,6 @@
 # iam\-user\-no\-policies\-check<a name="iam-user-no-policies-check"></a>
 
-Checks that none of your IAM users have policies attached\. IAM users must inherit permissions from IAM groups or roles\.
+Checks that none of your IAM users have policies attached\. IAM users must inherit permissions from IAM groups\.
 
 **Identifier:** IAM\_USER\_NO\_POLICIES\_CHECK
 
